@@ -1,0 +1,14 @@
+﻿1. Import the necessary libraries
+2. Load the dataset
+3. Display the dataset (head & tail)
+4. Show summary statistics of the dataset 
+5. Find the missing values & the duplicate values 
+6. Distribution of Target variable & dependent variables
+7. Boxplots, histograms
+8. Outliers detection and removal
+9. Correlation Heatmaps
+10. Train/Test Split
+11. Feature Scaling using StandardScaler
+12. Train the logistic regression model
+13. Make Predictions using testing data
+14. Display classification report, confusion matrix and accuracy of the model
